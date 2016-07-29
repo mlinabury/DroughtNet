@@ -1,0 +1,179 @@
+	0	1	2	3	4	5	6	7	8	9	10	11	annotation
+0	STRG.85.1|m.4823	sp|Q05966|GRP10_BRANA	91.57	83	7	0	3	85	2	84	2e-49	163.0	Glycine-rich RNA-binding protein 10 OS=Brassica napus GN=GRP10 PE=2 SV=1
+1	STRG.157.1|m.542	sp|Q55874|Y103_SYNY3	25.99	377	191	19	328	647	38	383	3e-05	50.8	Uncharacterized protein sll0103 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) GN=sll0103 PE=3 SV=1
+2	STRG.365.2|m.5191	sp|Q9SE83|DRP2A_ARATH	64.94	231	74	2	2	225	115	345	6e-78	270.0	Dynamin-2A OS=Arabidopsis thaliana GN=DRP2A PE=1 SV=2
+3	STRG.365.2|m.5191	sp|Q9SE83|DRP2A_ARATH	64.94	231	74	2	2	225	115	345	4e-78	271.0	Dynamin-2A OS=Arabidopsis thaliana GN=DRP2A PE=1 SV=2
+4	STRG.642.1|m.1398	sp|Q3UQA7|SELH_MOUSE	39.13	46	28	0	103	148	30	75	3e-05	44.7	Selenoprotein H OS=Mus musculus GN=Selh PE=1 SV=2
+5	STRG.769.1|m.2022	sp|Q96MB7|HARB1_HUMAN	26.12	291	198	8	192	477	23	301	7e-20	94.7	Putative nuclease HARBI1 OS=Homo sapiens GN=HARBI1 PE=1 SV=1
+6	STRG.769.1|m.2022	sp|Q96MB7|HARB1_HUMAN	26.12	291	198	8	192	477	23	301	7e-20	94.7	Putative nuclease HARBI1 OS=Homo sapiens GN=HARBI1 PE=1 SV=1
+7	STRG.796.1|m.2848	sp|Q42418|PROF2_ARATH	93.89	131	8	0	25	155	1	131	2e-87	258.0	Profilin-2 OS=Arabidopsis thaliana GN=PRO2 PE=2 SV=1
+8	STRG.1112.1|m.2587	sp|Q9C5M8|PLY18_ARATH	94.09	406	24	0	1	406	3	408	0.0	761.0	Probable pectate lyase 18 OS=Arabidopsis thaliana GN=At4g24780 PE=2 SV=2
+9	STRG.1532.1|m.1962	sp|Q39011|KSG7_ARATH	99.21	380	3	0	1	380	1	380	0.0	792.0	Shaggy-related protein kinase eta OS=Arabidopsis thaliana GN=ASK7 PE=1 SV=2
+10	STRG.1792.1|m.1408	sp|Q8H100|AGD8_ARATH	66.78	307	50	11	1	263	27	325	4e-120	356.0	Probable ADP-ribosylation factor GTPase-activating protein AGD8 OS=Arabidopsis thaliana GN=AGD8 PE=1 SV=1
+11	STRG.1821.1|m.651	sp|Q7LHG5|YI31B_YEAST	30.5	200	111	6	3	175	1023	1221	6e-22	97.8	Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TY3B-I PE=3 SV=2
+12	STRG.1893.1|m.4532	sp|Q04264|PDS5_YEAST	27.03	185	127	5	29	207	10	192	1e-15	79.7	Sister chromatid cohesion protein PDS5 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=PDS5 PE=1 SV=1
+13	STRG.1917.1|m.4313	sp|Q9XEC1|Y4443_ARATH	37.14	105	64	2	42	146	83	185	3e-11	63.5	Probable transposase-like protein At4g04430 OS=Arabidopsis thaliana GN=At4g04430 PE=3 SV=1
+14	STRG.1976.3|m.3136	sp|Q9SVM8|RBG2_ARATH	83.47	121	19	1	19	139	1	120	3e-65	203.0	Glycine-rich RNA-binding protein 2, mitochondrial OS=Arabidopsis thaliana GN=RBG2 PE=1 SV=1
+15	STRG.1976.3|m.3136	sp|Q9SVM8|RBG2_ARATH	83.47	121	19	1	19	139	1	120	3e-65	203.0	Glycine-rich RNA-binding protein 2, mitochondrial OS=Arabidopsis thaliana GN=RBG2 PE=1 SV=1
+16	STRG.1976.3|m.3136	sp|Q9SVM8|RBG2_ARATH	83.85	130	20	1	19	148	1	129	2e-64	201.0	Glycine-rich RNA-binding protein 2, mitochondrial OS=Arabidopsis thaliana GN=RBG2 PE=1 SV=1
+17	STRG.1992.1|m.3702	sp|Q944R1|PLY15_ARATH	90.48	126	10	2	1	125	70	194	7e-78	243.0	Probable pectate lyase 15 OS=Arabidopsis thaliana GN=At4g13710 PE=2 SV=1
+18	STRG.2092.1|m.142	sp|Q9XEC1|Y4443_ARATH	29.31	174	109	5	78	237	90	263	2e-13	73.6	Probable transposase-like protein At4g04430 OS=Arabidopsis thaliana GN=At4g04430 PE=3 SV=1
+19	STRG.2091.1|m.4286	sp|Q8NDW8|TT21A_HUMAN	29.7	101	55	3	21	115	883	973	0.01	39.3	Tetratricopeptide repeat protein 21A OS=Homo sapiens GN=TTC21A PE=2 SV=3
+20	STRG.2106.1|m.582	sp|Q7LHG5|YI31B_YEAST	46.94	147	77	1	5	150	1152	1298	8e-38	142.0	Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TY3B-I PE=3 SV=2
+21	STRG.2108.1|m.4146	sp|Q99315|YG31B_YEAST	44.22	199	107	2	19	215	562	758	1e-46	171.0	Transposon Ty3-G Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TY3B-G PE=1 SV=3
+22	STRG.11995.1|m.8453	sp|P46819|RPOC1_SINAL	89.43	123	12	1	1	122	538	660	2e-68	225.0	DNA-directed RNA polymerase subunit beta' OS=Sinapis alba GN=rpoC1 PE=1 SV=2
+23	STRG.12124.3|m.7759	sp|Q84Y18|CXIP4_ARATH	86.49	185	23	2	1	184	1	184	4e-94	290.0	CAX-interacting protein 4 OS=Arabidopsis thaliana GN=CXIP4 PE=1 SV=2
+24	STRG.12124.3|m.7759	sp|Q84Y18|CXIP4_ARATH	86.49	185	23	2	1	184	1	184	4e-94	290.0	CAX-interacting protein 4 OS=Arabidopsis thaliana GN=CXIP4 PE=1 SV=2
+25	STRG.12136.1	sp|Q9SYG7|AL7B4_ARATH	86.76	68	9	0	1	68	1	68	3e-34	126.0	Aldehyde dehydrogenase family 7 member B4 OS=Arabidopsis thaliana GN=ALDH7B4 PE=2 SV=3
+26	STRG.12201.1|m.7748	sp|P93028|UBE11_ARATH	92.86	56	4	0	1	56	1025	1080	4e-28	110.0	Ubiquitin-activating enzyme E1 1 OS=Arabidopsis thaliana GN=UBA1 PE=1 SV=1
+27	STRG.12455.1	sp|O22781|SUVH2_ARATH	61.42	674	224	7	1	661	1	651	0.0	840.0	Histone-lysine N-methyltransferase family member SUVH2 OS=Arabidopsis thaliana GN=SUVH2 PE=1 SV=1
+28	STRG.12534.1|m.7000	sp|P10978|POLX_TOBAC	36.61	112	69	2	38	147	421	532	3e-16	79.7	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+29	STRG.12833.1	sp|O80450|TGT3B_ARATH	83.33	282	39	3	18	299	16	289	2e-122	359.0	Trihelix transcription factor GT-3b OS=Arabidopsis thaliana GN=GT-3B PE=1 SV=1
+30	STRG.12893.1	sp|Q6XNP7|HPI_HEVBR	52.05	73	32	2	1	73	1	70	2e-16	71.6	Protease inhibitor HPI OS=Hevea brasiliensis GN=PI1 PE=1 SV=2
+31	STRG.12901.1|m.7500	sp|Q55874|Y103_SYNY3	29.44	248	156	6	249	490	39	273	4e-18	90.9	Uncharacterized protein sll0103 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) GN=sll0103 PE=3 SV=1
+32	STRG.13353.1	sp|Q94K80|LRP1C_ARATH	36.92	195	99	7	16	188	79	271	3e-07	55.5	La-related protein 1C OS=Arabidopsis thaliana GN=LARP1C PE=1 SV=1
+33	STRG.13344.1|m.9548	sp|Q502K2|SAMH1_DANRE	31.17	77	37	2	18	78	209	285	0.0003	43.1	Deoxynucleoside triphosphate triphosphohydrolase SAMHD1 OS=Danio rerio GN=samhd1 PE=2 SV=2
+34	STRG.13344.1|m.9548	sp|Q502K2|SAMH1_DANRE	31.08	74	35	2	2	59	212	285	0.008	38.1	Deoxynucleoside triphosphate triphosphohydrolase SAMHD1 OS=Danio rerio GN=samhd1 PE=2 SV=2
+35	STRG.13482.1	sp|O64823|MCU2_ARATH	72.13	61	9	3	1	59	83	137	3e-16	74.3	Calcium uniporter protein 2, mitochondrial OS=Arabidopsis thaliana GN=At2g23790 PE=2 SV=1
+36	STRG.13486.1|m.9641	sp|P49310|GRP1_SINAL	81.18	85	16	0	32	116	1	85	1e-41	144.0	Glycine-rich RNA-binding protein GRP1A OS=Sinapis alba PE=2 SV=1
+37	STRG.13496.1	sp|Q8LBM4|ISAM1_ARATH	91.49	47	4	0	1	47	18	64	7e-25	94.4	Iron-sulfur assembly protein IscA-like 1, mitochondrial OS=Arabidopsis thaliana GN=At2g16710 PE=2 SV=2
+38	STRG.13555.2|m.9302	sp|F4IRR2|SAD2_ARATH	97.22	36	1	0	92	127	861	896	3e-14	74.3	Importin beta-like SAD2 OS=Arabidopsis thaliana GN=SAD2 PE=1 SV=1
+39	STRG.13555.2|m.9302	sp|F4IRR2|SAD2_ARATH	97.22	36	1	0	92	127	861	896	3e-14	74.3	Importin beta-like SAD2 OS=Arabidopsis thaliana GN=SAD2 PE=1 SV=1
+40	STRG.13591.1	sp|Q9C5S0|AGP9_ARATH	84.78	92	13	1	99	189	100	191	1e-07	52.8	Classical arabinogalactan protein 9 OS=Arabidopsis thaliana GN=AGP9 PE=1 SV=2
+41	STRG.13747.1|m.10388	sp|Q7LHG5|YI31B_YEAST	37.22	352	216	5	1	350	1106	1454	2e-65	232.0	Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TY3B-I PE=3 SV=2
+42	STRG.13749.1|m.10387	sp|Q7LHG5|YI31B_YEAST	44.1	195	105	2	38	230	586	778	1e-44	165.0	Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TY3B-I PE=3 SV=2
+43	STRG.13918.1|m.9853	sp|Q42449|PROF1_ARATH	89.31	131	14	0	1	131	1	131	6e-82	243.0	Profilin-1 OS=Arabidopsis thaliana GN=PRO1 PE=1 SV=1
+44	STRG.14734.1	sp|Q9LJD9|AGP12_ARATH	91.8	61	4	1	1	61	1	60	6e-28	100.0	Arabinogalactan peptide 12 OS=Arabidopsis thaliana GN=AGP12 PE=1 SV=1
+45	STRG.15165.1|m.13311	sp|Q9M8Z8|PLY8_ARATH	96.15	416	16	0	24	439	1	416	0.0	822.0	Probable pectate lyase 8 OS=Arabidopsis thaliana GN=At3g07010 PE=2 SV=1
+46	STRG.15437.1	sp|Q9LTV2|FBD8_ARATH	54.55	55	22	1	2	53	15	69	9e-11	60.8	Putative FBD-associated F-box protein At3g12840 OS=Arabidopsis thaliana GN=At3g12840 PE=3 SV=1
+47	STRG.15623.1|m.15017	sp|Q9XSC3|WDR44_BOVIN	33.23	328	185	9	248	565	509	812	6e-43	170.0	WD repeat-containing protein 44 OS=Bos taurus GN=WDR44 PE=1 SV=1
+48	STRG.15722.1|m.15804	sp|Q6AZB8|HARB1_DANRE	26.4	197	125	6	188	379	140	321	1e-06	53.9	Putative nuclease HARBI1 OS=Danio rerio GN=harbi1 PE=2 SV=1
+49	STRG.15722.1|m.15804	sp|Q6AZB8|HARB1_DANRE	26.4	197	125	6	188	379	140	321	1e-06	53.9	Putative nuclease HARBI1 OS=Danio rerio GN=harbi1 PE=2 SV=1
+50	STRG.15807.1|m.15619	sp|Q38879|TRXH2_ARATH	83.46	133	21	1	1	132	1	133	3e-75	226.0	Thioredoxin H2 OS=Arabidopsis thaliana GN=TRX2 PE=2 SV=2
+51	STRG.15838.2	sp|Q9S795|BADH1_ARATH	87.18	39	5	0	7	45	439	477	6e-18	80.1	Betaine aldehyde dehydrogenase 1, chloroplastic OS=Arabidopsis thaliana GN=ALDH10A8 PE=2 SV=1
+52	STRG.15939.1|m.15122	sp|Q9FKD7|SINL7_ARATH	60.0	280	107	2	164	439	2	280	6e-119	355.0	E3 ubiquitin-protein ligase SINA-like 7 OS=Arabidopsis thaliana GN=At5g37890 PE=2 SV=1
+53	STRG.15960.1|m.15430	sp|O04244|Y4200_ARATH	33.08	133	88	1	175	306	12	144	4e-24	104.0	Uncharacterized protein At4g02000 OS=Arabidopsis thaliana GN=At4g02000 PE=2 SV=1
+54	STRG.16165.1|m.16919	sp|Q55874|Y103_SYNY3	24.46	368	210	15	347	668	38	383	0.0002	48.5	Uncharacterized protein sll0103 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) GN=sll0103 PE=3 SV=1
+55	STRG.16275.1	sp|Q1WIQ6|GAPN_ARATH	77.36	53	12	0	1	53	1	53	4e-23	94.7	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase OS=Arabidopsis thaliana GN=ALDH11A3 PE=1 SV=2
+56	STRG.16327.1|m.16598	sp|P0CAP4|REM12_ARATH	40.12	167	75	3	72	213	189	355	1e-25	106.0	B3 domain-containing protein REM12 OS=Arabidopsis thaliana GN=REM12 PE=2 SV=1
+57	STRG.16327.1|m.16598	sp|P0CAP4|REM12_ARATH	34.81	181	92	3	2	178	6	164	1e-21	95.9	B3 domain-containing protein REM12 OS=Arabidopsis thaliana GN=REM12 PE=2 SV=1
+58	STRG.16327.1|m.16598	sp|P0CAP4|REM12_ARATH	30.6	134	86	3	38	168	303	432	4e-11	65.1	B3 domain-containing protein REM12 OS=Arabidopsis thaliana GN=REM12 PE=2 SV=1
+59	STRG.16340.1	sp|B0BN95|HARB1_RAT	22.32	233	153	9	59	279	88	304	0.0003	45.8	Putative nuclease HARBI1 OS=Rattus norvegicus GN=Harbi1 PE=2 SV=1
+60	STRG.16384.1|m.16856	sp|Q9FHE1|GSTT3_ARATH	44.31	246	118	6	36	264	267	510	5e-53	187.0	Glutathione S-transferase T3 OS=Arabidopsis thaliana GN=GSTT3 PE=2 SV=1
+61	STRG.16384.1|m.16856	sp|Q9FHE1|GSTT3_ARATH	38.83	206	107	6	2	190	307	510	2e-33	129.0	Glutathione S-transferase T3 OS=Arabidopsis thaliana GN=GSTT3 PE=2 SV=1
+62	STRG.18727.2|m.17107	sp|Q9FGK8|SC16B_ARATH	71.07	363	74	7	1	344	1	351	3e-156	481.0	Protein transport protein SEC16B homolog OS=Arabidopsis thaliana GN=SEC16B PE=1 SV=1
+63	STRG.18727.2|m.17107	sp|Q9FGK8|SC16B_ARATH	91.3	46	4	0	344	389	498	543	1e-18	91.7	Protein transport protein SEC16B homolog OS=Arabidopsis thaliana GN=SEC16B PE=1 SV=1
+64	STRG.16513.1|m.18501	sp|Q6AZB8|HARB1_DANRE	26.64	289	181	8	95	375	37	302	1e-25	110.0	Putative nuclease HARBI1 OS=Danio rerio GN=harbi1 PE=2 SV=1
+65	STRG.16685.1|m.18974	sp|Q9SCP2|PLY12_ARATH	80.77	130	24	1	1	129	1	130	1e-71	228.0	Probable pectate lyase 12 OS=Arabidopsis thaliana GN=At3g53190 PE=2 SV=2
+66	STRG.16720.2|m.18451	sp|Q8LBP4|ALB3_ARATH	84.71	85	13	0	1	85	81	165	9e-42	147.0	Inner membrane protein ALBINO3, chloroplastic OS=Arabidopsis thaliana GN=ALB3 PE=1 SV=2
+67	STRG.16789.1|m.18616	sp|P14381|YTX2_XENLA	30.46	197	130	2	56	250	359	550	1e-20	95.9	Transposon TX1 uncharacterized 149 kDa protein OS=Xenopus laevis PE=3 SV=1
+68	STRG.16840.1	sp|Q9FHE1|GSTT3_ARATH	51.06	188	72	4	53	220	268	455	6e-50	179.0	Glutathione S-transferase T3 OS=Arabidopsis thaliana GN=GSTT3 PE=2 SV=1
+69	STRG.16840.1	sp|Q9FHE1|GSTT3_ARATH	51.06	188	72	4	62	229	268	455	9e-50	179.0	Glutathione S-transferase T3 OS=Arabidopsis thaliana GN=GSTT3 PE=2 SV=1
+70	STRG.16946.3	sp|Q93VG8|PPDEX_ARATH	77.78	18	4	0	16	33	28	45	0.0002	40.0	DeSI-like protein At4g17486 OS=Arabidopsis thaliana GN=At4g17486 PE=2 SV=1
+71	STRG.17090.1|m.18947	sp|Q7LHG5|YI31B_YEAST	34.94	166	107	1	8	173	1249	1413	2e-24	105.0	Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TY3B-I PE=3 SV=2
+72	STRG.17092.1|m.17962	sp|P20825|POL2_DROME	45.79	214	111	2	1	209	228	441	3e-54	191.0	Retrovirus-related Pol polyprotein from transposon 297 OS=Drosophila melanogaster GN=pol PE=3 SV=1
+73	STRG.17147.1	sp|Q9ZS96|Y4478_ARATH	26.61	109	72	4	13	115	21	127	3e-07	49.7	Uncharacterized protein At4g04775 OS=Arabidopsis thaliana GN=At4g04775 PE=2 SV=1
+74	STRG.17411.1|m.18996	sp|Q7TN75|PEG10_MOUSE	27.71	166	97	7	218	376	211	360	0.002	44.7	Retrotransposon-derived protein PEG10 OS=Mus musculus GN=Peg10 PE=1 SV=2
+75	STRG.17417.1|m.19505	sp|P52178|TPT2_BRAOB	92.93	410	20	3	2	410	1	402	0.0	723.0	Triose phosphate/phosphate translocator, non-green plastid, chloroplastic OS=Brassica oleracea var. botrytis GN=NGTPT PE=2 SV=1
+76	STRG.17458.2	sp|Q9LEX8|Y3093_ARATH	26.63	184	119	5	5	182	611	784	2e-06	51.2	Uncharacterized protein At3g60930, chloroplastic OS=Arabidopsis thaliana GN=At3g60930 PE=1 SV=1
+77	STRG.17460.1|m.19614	sp|Q8I7P9|POL5_DROME	29.22	243	152	4	1	230	329	564	3e-21	98.6	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+78	STRG.17460.1|m.19614	sp|Q8I7P9|POL5_DROME	27.35	223	142	4	1	210	349	564	3e-14	76.3	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+79	STRG.17464.1|m.19595	sp|Q9SWG3|FAR1_ARATH	25.87	143	95	3	555	692	232	368	0.0001	49.7	Protein FAR-RED IMPAIRED RESPONSE 1 OS=Arabidopsis thaliana GN=FAR1 PE=1 SV=1
+80	STRG.17923.1|m.19776	sp|O82089|CCH_ARATH	90.91	121	7	1	1	117	1	121	1e-61	190.0	Copper transport protein CCH OS=Arabidopsis thaliana GN=CCH PE=1 SV=1
+81	STRG.2755.1|m.25343	sp|O04716|MSH6_ARATH	37.68	69	41	1	24	90	120	188	6e-07	55.1	DNA mismatch repair protein MSH6 OS=Arabidopsis thaliana GN=MSH6 PE=1 SV=2
+82	STRG.2832.1|m.26984	sp|Q6AZB8|HARB1_DANRE	27.8	223	138	9	240	453	94	302	4e-16	83.6	Putative nuclease HARBI1 OS=Danio rerio GN=harbi1 PE=2 SV=1
+83	STRG.2832.1|m.26984	sp|Q6AZB8|HARB1_DANRE	27.8	223	138	9	240	453	94	302	4e-16	83.6	Putative nuclease HARBI1 OS=Danio rerio GN=harbi1 PE=2 SV=1
+84	STRG.2854.1	sp|Q9FMP0|MD19A_ARATH	90.95	221	20	0	1	221	1	221	2e-89	269.0	Mediator of RNA polymerase II transcription subunit 19a OS=Arabidopsis thaliana GN=MED19A PE=1 SV=1
+85	STRG.3373.1	sp|Q6NQD9|MD19B_ARATH	85.1	208	29	2	1	207	1	207	2e-81	248.0	Probable mediator of RNA polymerase II transcription subunit 19b OS=Arabidopsis thaliana GN=MED19B PE=2 SV=1
+86	STRG.3448.3|m.25289	sp|F4K5J1|MYO17_ARATH	91.82	110	9	0	1	110	1228	1337	2e-54	188.0	Myosin-17 OS=Arabidopsis thaliana GN=XI-K PE=1 SV=2
+87	STRG.3460.1|m.26819	sp|Q9S7M2|TI10B_ARATH	34.19	155	77	7	39	183	107	246	5e-16	77.0	Protein TIFY 10B OS=Arabidopsis thaliana GN=TIFY10B PE=1 SV=1
+88	STRG.3575.1|m.22452	sp|Q55874|Y103_SYNY3	31.07	206	121	5	226	427	24	212	3e-14	79.0	Uncharacterized protein sll0103 OS=Synechocystis sp. (strain PCC 6803 / Kazusa) GN=sll0103 PE=3 SV=1
+89	STRG.3848.1	sp|Q9FE63|PROF5_ARATH	87.79	131	16	0	1	131	1	131	7e-81	240.0	Profilin-5 OS=Arabidopsis thaliana GN=PRO5 PE=2 SV=1
+90	STRG.3860.1	sp|Q9LVC0|AGP14_ARATH	81.67	60	11	0	1	60	1	60	4e-26	95.9	Arabinogalactan peptide 14 OS=Arabidopsis thaliana GN=AGP14 PE=1 SV=1
+91	STRG.4153.1|m.24748	sp|Q8IDX6|RBP2A_PLAF7	26.37	91	61	2	187	271	2748	2838	0.0009	45.1	Reticulocyte-binding protein 2 homolog a OS=Plasmodium falciparum (isolate 3D7) GN=PF13_0198 PE=3 SV=1
+92	STRG.4153.1|m.24748	sp|Q8IDX6|RBP2A_PLAF7	31.18	93	55	5	181	267	2759	2848	0.005	42.7	Reticulocyte-binding protein 2 homolog a OS=Plasmodium falciparum (isolate 3D7) GN=PF13_0198 PE=3 SV=1
+93	STRG.4172.1|m.22050	sp|Q9FHB5|FDL42_ARATH	49.71	171	77	4	7	174	205	369	3e-38	140.0	Putative F-box/FBD/LRR-repeat protein At5g52460 OS=Arabidopsis thaliana GN=EDA41 PE=3 SV=2
+94	STRG.4405.3	sp|P49967|SR543_ARATH	92.86	42	3	0	1	42	221	262	2e-17	77.8	Signal recognition particle 54 kDa protein 3 OS=Arabidopsis thaliana GN=SRP-54C PE=2 SV=2
+95	STRG.4426.4|m.24525	sp|Q9LZS3|GLGB2_ARATH	74.05	131	23	1	1	131	90	209	3e-57	194.0	1,4-alpha-glucan-branching enzyme 2-2, chloroplastic/amyloplastic OS=Arabidopsis thaliana GN=SBE2.2 PE=2 SV=1
+96	STRG.18621.2|m.28894	sp|Q75HY5|RSLE3_ORYSJ	29.82	684	407	15	16	646	71	734	2e-97	322.0	Zinc finger BED domain-containing protein RICESLEEPER 3 OS=Oryza sativa subsp. japonica GN=Os05g0583200 PE=2 SV=1
+97	STRG.18621.2|m.28894	sp|Q75HY5|RSLE3_ORYSJ	29.82	684	407	15	16	646	71	734	4e-97	322.0	Zinc finger BED domain-containing protein RICESLEEPER 3 OS=Oryza sativa subsp. japonica GN=Os05g0583200 PE=2 SV=1
+98	STRG.4461.1|m.29535	sp|Q9SX28|GDT15_ARATH	95.12	41	2	0	101	141	4	44	7e-18	81.3	GDT1-like protein 5 OS=Arabidopsis thaliana GN=At1g68650 PE=1 SV=1
+99	STRG.4886.1|m.29988	sp|Q9FHE1|GSTT3_ARATH	25.48	208	137	7	5	210	273	464	4e-06	51.6	Glutathione S-transferase T3 OS=Arabidopsis thaliana GN=GSTT3 PE=2 SV=1
+100	STRG.4914.1|m.30512	sp|P93295|M310_ARATH	61.04	154	59	1	122	274	1	154	6e-62	209.0	Uncharacterized mitochondrial protein AtMg00310 OS=Arabidopsis thaliana GN=AtMg00310 PE=4 SV=1
+101	STRG.5058.1|m.29176	sp|Q9LTT9|VCR_ARATH	40.09	227	121	5	1	223	227	442	3e-39	156.0	Varicose-related protein OS=Arabidopsis thaliana GN=VCR PE=2 SV=1
+102	STRG.5058.1|m.29176	sp|Q9LTT9|VCR_ARATH	36.0	50	32	0	298	347	1088	1137	0.002	44.3	Varicose-related protein OS=Arabidopsis thaliana GN=VCR PE=2 SV=1
+103	STRG.5068.1|m.29274	sp|P10978|POLX_TOBAC	46.15	143	76	1	25	166	481	623	6e-36	138.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+104	STRG.5188.1|m.30079	sp|Q0JMB2|RSLE4_ORYSJ	25.2	123	79	5	9	126	47	161	0.005	39.3	Zinc finger BED domain-containing protein RICESLEEPER 4 OS=Oryza sativa subsp. japonica GN=Os01g0518400 PE=2 SV=3
+105	STRG.18706.1|m.30786	sp|Q9XEC1|Y4443_ARATH	24.14	174	121	3	122	285	81	253	1e-07	56.6	Probable transposase-like protein At4g04430 OS=Arabidopsis thaliana GN=At4g04430 PE=3 SV=1
+106	STRG.18707.1|m.30800	sp|P04323|POL3_DROME	47.92	192	100	0	1	192	272	463	4e-53	187.0	Retrovirus-related Pol polyprotein from transposon 17.6 OS=Drosophila melanogaster GN=pol PE=3 SV=1
+107	STRG.18737.1|m.30808	sp|P10978|POLX_TOBAC	40.72	361	203	5	1	351	883	1242	1e-82	278.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+108	STRG.18737.1|m.30808	sp|P10978|POLX_TOBAC	41.0	361	202	5	1	351	883	1242	3e-83	280.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+109	STRG.5312.1	sp|Q9LVG2|TOE2_ARATH	65.52	58	17	1	1	58	1	55	2e-13	68.9	AP2-like ethylene-responsive transcription factor TOE2 OS=Arabidopsis thaliana GN=TOE2 PE=1 SV=1
+110	STRG.5339.1|m.31451	sp|Q9XEC1|Y4443_ARATH	27.66	188	125	4	52	231	88	272	7e-13	71.2	Probable transposase-like protein At4g04430 OS=Arabidopsis thaliana GN=At4g04430 PE=3 SV=1
+111	STRG.5371.1|m.31003	sp|P10978|POLX_TOBAC	41.94	93	52	2	1	93	1071	1161	3e-16	78.2	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+112	STRG.5499.1|m.31749	sp|Q9LRM5|PLY9_ARATH	78.95	380	68	2	1	368	1	380	0.0	632.0	Probable pectate lyase 9 OS=Arabidopsis thaliana GN=At3g24230 PE=2 SV=1
+113	STRG.5575.1	sp|O04244|Y4200_ARATH	32.56	129	85	2	83	209	11	139	4e-18	86.3	Uncharacterized protein At4g02000 OS=Arabidopsis thaliana GN=At4g02000 PE=2 SV=1
+114	STRG.5611.1|m.30881	sp|Q9M1G4|LRK15_ARATH	87.26	675	84	2	1	674	1	674	0.0	1179.0	Probable L-type lectin-domain containing receptor kinase I.5 OS=Arabidopsis thaliana GN=LECRK15 PE=2 SV=2
+115	STRG.5611.1|m.30881	sp|Q9M1G4|LRK15_ARATH	87.26	675	84	2	1	674	1	674	0.0	1179.0	Probable L-type lectin-domain containing receptor kinase I.5 OS=Arabidopsis thaliana GN=LECRK15 PE=2 SV=2
+116	STRG.5613.1	sp|Q9M3D8|LRK13_ARATH	78.94	546	107	2	12	557	1	538	0.0	876.0	L-type lectin-domain containing receptor kinase I.3 OS=Arabidopsis thaliana GN=LECRK13 PE=1 SV=1
+117	STRG.5698.1|m.31202	sp|P31843|RRPO_OENBE	50.52	97	48	0	1	97	8	104	2e-30	111.0	RNA-directed DNA polymerase homolog OS=Oenothera berteroana PE=4 SV=1
+118	STRG.5771.1|m.35976	sp|P08361|POL_MLVCB	39.62	106	62	2	9	113	48	152	1e-15	76.6	Gag-Pol polyprotein (Fragment) OS=Cas-Br-E murine leukemia virus GN=gag-pol PE=3 SV=1
+119	STRG.5876.1	sp|Q9FHE1|GSTT3_ARATH	24.06	212	130	5	2	203	264	454	7e-07	52.4	Glutathione S-transferase T3 OS=Arabidopsis thaliana GN=GSTT3 PE=2 SV=1
+120	STRG.5883.2|m.33699	sp|Q9LQM7|HFA1D_ARATH	70.48	105	19	2	8	112	4	96	9e-40	142.0	Heat stress transcription factor A-1d OS=Arabidopsis thaliana GN=HSFA1D PE=1 SV=2
+121	STRG.5994.1|m.32871	sp|Q6AZB8|HARB1_DANRE	23.3	103	77	1	45	145	222	324	0.002	40.4	Putative nuclease HARBI1 OS=Danio rerio GN=harbi1 PE=2 SV=1
+122	STRG.6044.1|m.32452	sp|P38456|YMF11_MARPO	23.84	541	273	15	175	645	243	714	8e-28	123.0	Uncharacterized mitochondrial protein ymf11 OS=Marchantia polymorpha GN=YMF11 PE=3 SV=1
+123	STRG.6044.1|m.32452	sp|P38456|YMF11_MARPO	23.84	541	273	15	37	507	243	714	3e-28	123.0	Uncharacterized mitochondrial protein ymf11 OS=Marchantia polymorpha GN=YMF11 PE=3 SV=1
+124	STRG.6158.1|m.34708	sp|Q96MB7|HARB1_HUMAN	26.54	324	209	10	75	393	7	306	8e-22	99.4	Putative nuclease HARBI1 OS=Homo sapiens GN=HARBI1 PE=1 SV=1
+125	STRG.6634.2	sp|Q9LN20|P4H3_ARATH	96.03	126	4	1	1	126	1	125	8e-82	248.0	Probable prolyl 4-hydroxylase 3 OS=Arabidopsis thaliana GN=P4H3 PE=2 SV=1
+126	STRG.7041.1|m.37704	sp|Q76NW7|HGH1_DICDI	23.58	212	153	4	4	210	3	210	9e-14	72.4	Protein HGH1 homolog OS=Dictyostelium discoideum GN=DDB_G0276861 PE=3 SV=1
+127	STRG.7041.1|m.37704	sp|Q76NW7|HGH1_DICDI	24.02	333	239	8	4	328	3	329	6e-24	104.0	Protein HGH1 homolog OS=Dictyostelium discoideum GN=DDB_G0276861 PE=3 SV=1
+128	STRG.7077.1	sp|Q9LMH0|KTI12_ARATH	95.03	302	15	0	1	302	1	302	0.0	593.0	Protein KTI12 homolog OS=Arabidopsis thaliana GN=KTI12 PE=1 SV=1
+129	STRG.7121.1|m.35879	sp|P10978|POLX_TOBAC	33.07	257	140	5	13	244	80	329	1e-37	145.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+130	STRG.7726.2|m.32381	sp|P0C2F6|RNHX1_ARATH	26.76	142	101	3	17	157	214	353	9e-11	67.4	Putative ribonuclease H protein At1g65750 OS=Arabidopsis thaliana GN=At1g65750 PE=3 SV=1
+131	STRG.7751.1|m.33690	sp|Q940Q1|PLY1_ARATH	95.13	431	15	1	25	449	1	431	0.0	837.0	Probable pectate lyase 1 OS=Arabidopsis thaliana GN=At1g04680 PE=2 SV=2
+132	STRG.7905.1|m.34539	sp|P0DKG4|MCC07_ARATH	48.4	281	125	2	2	263	6	285	9e-82	259.0	MATH domain and coiled-coil domain-containing protein At2g42465 OS=Arabidopsis thaliana GN=At2g42465 PE=3 SV=1
+133	STRG.7962.1|m.32640	sp|Q6L3Z7|R1B14_SOLDE	46.03	63	29	2	1	58	1251	1313	6e-07	52.4	Putative late blight resistance protein homolog R1B-14 OS=Solanum demissum GN=R1B-14 PE=3 SV=1
+134	STRG.8204.1	sp|Q9FHE1|GSTT3_ARATH	42.86	49	27	1	46	93	542	590	0.002	39.7	Glutathione S-transferase T3 OS=Arabidopsis thaliana GN=GSTT3 PE=2 SV=1
+135	STRG.8360.1|m.40457	sp|Q93Z25|PLY22_ARATH	92.44	410	31	0	1	410	23	432	0.0	773.0	Probable pectate lyase 22 OS=Arabidopsis thaliana GN=At5g63180 PE=2 SV=1
+136	STRG.8394.1|m.40204	sp|Q42463|DCL_SOLLC	48.94	47	23	1	145	190	151	197	2e-05	47.8	Protein DCL, chloroplastic OS=Solanum lycopersicum GN=DCL PE=2 SV=1
+137	STRG.8979.1|m.41695	sp|Q9FKA5|Y5957_ARATH	41.67	384	144	12	31	338	1	380	5e-55	190.0	Uncharacterized protein At5g39570 OS=Arabidopsis thaliana GN=At5g39570 PE=1 SV=1
+138	STRG.9083.1|m.41731	sp|Q9LTZ0|PLY11_ARATH	94.23	260	14	1	1	259	26	285	4e-172	488.0	Putative pectate lyase 11 OS=Arabidopsis thaliana GN=At3g27400 PE=3 SV=2
+139	STRG.9419.1	sp|Q7LHG5|YI31B_YEAST	37.5	128	70	4	30	155	1088	1207	3e-17	84.0	Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TY3B-I PE=3 SV=2
+140	STRG.9529.2	sp|F4IDY7|DDR4_ARATH	50.77	130	51	5	2	120	22	149	9e-20	89.0	DDT domain-containing protein DDR4 OS=Arabidopsis thaliana GN=DDR4 PE=1 SV=1
+141	STRG.9552.2|m.42719	sp|Q8RWA2|MED9_ARATH	73.03	152	28	4	108	257	102	242	2e-54	182.0	Mediator of RNA polymerase II transcription subunit 9 OS=Arabidopsis thaliana GN=MED9 PE=1 SV=1
+142	STRG.9552.2|m.42719	sp|Q8RWA2|MED9_ARATH	82.99	147	18	3	108	252	102	243	5e-66	211.0	Mediator of RNA polymerase II transcription subunit 9 OS=Arabidopsis thaliana GN=MED9 PE=1 SV=1
+143	STRG.9714.1|m.42376	sp|P10978|POLX_TOBAC	37.36	91	56	1	23	112	785	875	4e-10	60.8	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+144	STRG.9715.1|m.43168	sp|P10978|POLX_TOBAC	25.64	234	142	9	1	219	148	364	2e-10	63.5	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+145	STRG.9774.1	sp|F4I7Y2|VP53B_ARATH	63.04	46	17	0	27	72	479	524	2e-09	57.0	Vacuolar protein sorting-associated protein 53 B OS=Arabidopsis thaliana GN=At1g50970 PE=2 SV=1
+146	STRG.9774.1	sp|F4I7Y2|VP53B_ARATH	76.92	26	6	0	5	30	118	143	0.0002	42.4	Vacuolar protein sorting-associated protein 53 B OS=Arabidopsis thaliana GN=At1g50970 PE=2 SV=1
+147	STRG.9784.1	sp|Q84WK4|SOBR1_ARATH	74.14	58	15	0	7	64	163	220	1e-24	96.3	Carboxylesterase SOBER1 OS=Arabidopsis thaliana GN=SOBER1 PE=1 SV=1
+148	STRG.10125.1	sp|P03371|POL_EIAVY	26.17	107	67	3	12	108	186	290	0.002	39.7	Pol polyprotein OS=Equine infectious anemia virus (strain Wyoming) GN=pol PE=3 SV=1
+149	STRG.10173.2|m.44669	sp|Q9XSC3|WDR44_BOVIN	32.4	392	214	15	192	561	481	843	1e-48	187.0	WD repeat-containing protein 44 OS=Bos taurus GN=WDR44 PE=1 SV=1
+150	STRG.10173.2|m.44669	sp|Q9XSC3|WDR44_BOVIN	32.4	392	214	15	187	556	481	843	2e-48	186.0	WD repeat-containing protein 44 OS=Bos taurus GN=WDR44 PE=1 SV=1
+151	STRG.10218.1	sp|Q38834|R13L4_ARATH	87.6	129	15	1	1	129	41	168	2e-70	232.0	Disease resistance RPP13-like protein 4 OS=Arabidopsis thaliana GN=RPP13L4 PE=1 SV=2
+152	STRG.10232.1|m.44974	sp|Q9CAK8|ISPF_ARATH	88.24	221	20	2	15	234	16	231	3e-126	363.0	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase, chloroplastic OS=Arabidopsis thaliana GN=ISPF PE=1 SV=1
+153	STRG.10474.1|m.44687	sp|P10978|POLX_TOBAC	38.72	452	265	6	1	442	877	1326	3e-102	338.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+154	STRG.10474.1|m.44687	sp|P10978|POLX_TOBAC	37.77	421	250	6	1	411	908	1326	4e-89	299.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+155	STRG.10475.1|m.45271	sp|P10978|POLX_TOBAC	35.17	381	221	7	15	387	481	843	8e-61	218.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+156	STRG.10465.1	sp|Q94JR6|DF206_ARATH	60.87	92	23	1	1	92	1	79	9e-22	86.7	Defensin-like protein 206 OS=Arabidopsis thaliana GN=At3g59930 PE=3 SV=1
+157	STRG.10503.1|m.45027	sp|Q6AZB8|HARB1_DANRE	20.98	286	194	6	3	279	43	305	3e-08	58.5	Putative nuclease HARBI1 OS=Danio rerio GN=harbi1 PE=2 SV=1
+158	STRG.10519.2	sp|O80738|TPS10_ARATH	57.97	69	25	1	26	90	747	815	2e-15	76.3	Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 10 OS=Arabidopsis thaliana GN=TPS10 PE=2 SV=1
+159	STRG.10542.1	sp|O80738|TPS10_ARATH	45.56	90	28	5	1	70	769	857	1e-06	48.9	Probable alpha,alpha-trehalose-phosphate synthase [UDP-forming] 10 OS=Arabidopsis thaliana GN=TPS10 PE=2 SV=1
+160	STRG.10562.2	sp|Q9SA60|PPR6_ARATH	78.33	120	26	0	17	136	134	253	2e-53	184.0	Pentatricopeptide repeat-containing protein At1g03100, mitochondrial OS=Arabidopsis thaliana GN=At1g03100 PE=2 SV=1
+161	STRG.10633.1	sp|Q9LFP0|APT5_ARATH	97.06	68	2	0	1	68	1	68	8e-41	139.0	Adenine phosphoribosyltransferase 5 OS=Arabidopsis thaliana GN=APT5 PE=1 SV=1
+162	STRG.10691.1|m.43959	sp|P10978|POLX_TOBAC	40.2	102	60	1	1	101	938	1039	1e-16	79.3	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+163	STRG.11234.1|m.45631	sp|B1N1A3|NICA_PSEPU	28.29	251	150	7	167	390	94	341	3e-15	83.6	Putative nicotine oxidoreductase OS=Pseudomonas putida GN=nicA PE=3 SV=1
+164	STRG.11234.1|m.45631	sp|B1N1A3|NICA_PSEPU	28.29	251	150	7	167	390	94	341	3e-15	83.6	Putative nicotine oxidoreductase OS=Pseudomonas putida GN=nicA PE=3 SV=1
+165	STRG.11234.1|m.45631	sp|B1N1A3|NICA_PSEPU	28.29	251	150	7	167	390	94	341	3e-15	83.6	Putative nicotine oxidoreductase OS=Pseudomonas putida GN=nicA PE=3 SV=1
+166	STRG.11240.1|m.48595	sp|Q9C909|RBG5_ARATH	96.4	111	4	0	26	136	1	111	2e-69	222.0	Glycine-rich RNA-binding protein 5, mitochondrial OS=Arabidopsis thaliana GN=RBG5 PE=2 SV=1
+167	STRG.11240.1|m.48595	sp|Q9C909|RBG5_ARATH	96.4	111	4	0	1	111	1	111	9e-70	224.0	Glycine-rich RNA-binding protein 5, mitochondrial OS=Arabidopsis thaliana GN=RBG5 PE=2 SV=1
+168	STRG.11240.1|m.48595	sp|Q9C909|RBG5_ARATH	96.4	111	4	0	1	111	1	111	6e-70	224.0	Glycine-rich RNA-binding protein 5, mitochondrial OS=Arabidopsis thaliana GN=RBG5 PE=2 SV=1
+169	STRG.11410.1	sp|A4FV84|MRT4_BOVIN	50.0	48	23	1	1	48	48	94	7e-07	47.4	mRNA turnover protein 4 homolog OS=Bos taurus GN=MRTO4 PE=2 SV=1
+170	STRG.11568.1	sp|O04539|SNL4_ARATH	65.16	155	49	2	10	159	9	163	5e-60	206.0	Paired amphipathic helix protein Sin3-like 4 OS=Arabidopsis thaliana GN=SNL4 PE=3 SV=3
+171	STRG.11779.1|m.46468	sp|P10978|POLX_TOBAC	56.62	136	58	1	2	136	895	1030	3e-45	163.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+172	STRG.11793.1|m.46152	sp|P42731|PABP2_ARATH	25.29	257	163	4	2	258	150	377	2e-16	82.8	Polyadenylate-binding protein 2 OS=Arabidopsis thaliana GN=PAB2 PE=1 SV=1
+173	STRG.11793.1|m.46152	sp|P42731|PABP2_ARATH	25.48	157	109	1	1	149	240	396	7e-08	57.0	Polyadenylate-binding protein 2 OS=Arabidopsis thaliana GN=PAB2 PE=1 SV=1
+174	STRG.11793.1|m.46152	sp|P42731|PABP2_ARATH	23.48	264	148	6	2	260	62	276	8e-08	56.6	Polyadenylate-binding protein 2 OS=Arabidopsis thaliana GN=PAB2 PE=1 SV=1
+175	STRG.11795.1|m.46604	sp|Q1PEP5|NUCL2_ARATH	54.05	74	33	1	72	145	384	456	1e-12	68.9	Nucleolin 2 OS=Arabidopsis thaliana GN=NUCL2 PE=2 SV=1
+176	STRG.11828.1|m.46771	sp|P92520|M820_ARATH	47.47	99	52	0	19	117	27	125	1e-25	100.0	Uncharacterized mitochondrial protein AtMg00820 OS=Arabidopsis thaliana GN=AtMg00820 PE=4 SV=1
+177	STRG.11867.1|m.45788	sp|O04244|Y4200_ARATH	28.69	122	83	1	6	127	28	145	1e-11	65.9	Uncharacterized protein At4g02000 OS=Arabidopsis thaliana GN=At4g02000 PE=2 SV=1
