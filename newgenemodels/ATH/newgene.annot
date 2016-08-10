@@ -1,104 +1,53 @@
 	0	1	2	3	4	5	6	7	8	9	10	11	annotation
-0	STRG.670.3	sp|Q9FDZ9|RL212_ARATH	74.07	81	20	1	16	95	84	164	4e-34	120.0	60S ribosomal protein L21-2 OS=Arabidopsis thaliana GN=RPL21E PE=2 SV=1
-1	STRG.894.1	sp|Q8B9D5|CATV_NPVR1	47.62	42	20	1	70	111	269	308	2e-06	48.5	Viral cathepsin OS=Rachiplusia ou multiple nucleopolyhedrovirus (strain R1) GN=VCATH PE=3 SV=1
-2	STRG.911.2|m.12835	sp|Q9LMH5|PPR42_ARATH	65.43	162	21	2	1	127	422	583	4e-60	202.0	Putative pentatricopeptide repeat-containing protein At1g13800 OS=Arabidopsis thaliana GN=At1g13800 PE=3 SV=1
-3	STRG.911.2|m.12835	sp|Q9LMH5|PPR42_ARATH	41.18	51	30	0	1	51	822	872	1e-05	47.4	Putative pentatricopeptide repeat-containing protein At1g13800 OS=Arabidopsis thaliana GN=At1g13800 PE=3 SV=1
-4	STRG.913.1|m.14	sp|Q9LMH5|PPR42_ARATH	73.47	245	60	2	1	244	87	327	1e-112	350.0	Putative pentatricopeptide repeat-containing protein At1g13800 OS=Arabidopsis thaliana GN=At1g13800 PE=3 SV=1
-5	STRG.1006.2|m.17820	sp|Q9M2N5|DSLE_ARATH	43.57	482	251	5	23	500	91	555	3e-138	432.0	Zinc finger BED domain-containing protein DAYSLEEPER OS=Arabidopsis thaliana GN=HAT PE=1 SV=1
-6	STRG.1006.2|m.17820	sp|Q9M2N5|DSLE_ARATH	50.96	104	46	1	696	794	571	674	4e-26	118.0	Zinc finger BED domain-containing protein DAYSLEEPER OS=Arabidopsis thaliana GN=HAT PE=1 SV=1
-7	STRG.1006.2|m.17820	sp|Q9M2N5|DSLE_ARATH	43.57	482	251	5	23	500	91	555	3e-138	432.0	Zinc finger BED domain-containing protein DAYSLEEPER OS=Arabidopsis thaliana GN=HAT PE=1 SV=1
-8	STRG.1006.2|m.17820	sp|Q9M2N5|DSLE_ARATH	50.96	104	46	1	696	794	571	674	4e-26	118.0	Zinc finger BED domain-containing protein DAYSLEEPER OS=Arabidopsis thaliana GN=HAT PE=1 SV=1
-9	STRG.1019.1|m.9748	sp|Q93Z92|RING4_ARATH	31.33	83	45	2	91	169	198	272	0.005	40.0	E3 ubiquitin-protein ligase At4g11680 OS=Arabidopsis thaliana GN=At4g11680 PE=2 SV=1
-10	STRG.1179.1	sp|Q9LMS5|GDL3_ARATH	69.33	150	0	1	1	104	107	256	8e-63	197.0	GDSL esterase/lipase At1g18120 OS=Arabidopsis thaliana GN=At1g18120 PE=3 SV=1
-11	STRG.2492.2|m.15160	sp|Q7YZH1|RNO_DROME	40.0	50	24	3	9	56	314	359	0.0005	42.0	PHD finger protein rhinoceros OS=Drosophila melanogaster GN=rno PE=1 SV=1
-12	STRG.2576.2|m.312	sp|P04146|COPIA_DROME	30.74	488	300	12	9	486	568	1027	2e-53	201.0	Copia protein OS=Drosophila melanogaster GN=GIP PE=1 SV=3
-13	STRG.2625.1|m.8006	sp|P0CAY7|DF290_ARATH	100.0	103	0	0	1	103	1	103	2e-70	211.0	Defensin-like protein 290 OS=Arabidopsis thaliana GN=At1g47320 PE=2 SV=1
-14	STRG.3412.1	sp|P10978|POLX_TOBAC	42.97	498	272	6	1	488	830	1325	1e-133	425.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-15	STRG.4123.1|m.5743	sp|Q4PSE7|FB262_ARATH	42.86	301	127	12	3	278	115	395	9e-51	177.0	F-box protein At5g25290 OS=Arabidopsis thaliana GN=At5g25290 PE=2 SV=1
-16	STRG.4123.1|m.5743	sp|Q4PSE7|FB262_ARATH	42.86	301	127	12	3	278	115	395	9e-51	177.0	F-box protein At5g25290 OS=Arabidopsis thaliana GN=At5g25290 PE=2 SV=1
-17	STRG.5107.1|m.22814	sp|P0CT43|TF28_SCHPO	30.11	93	63	1	39	129	895	987	3e-10	61.2	Transposon Tf2-8 polyprotein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=Tf2-8 PE=3 SV=1
-18	STRG.5235.1|m.19862	sp|P10978|POLX_TOBAC	32.84	134	70	4	2	135	1	114	8e-10	60.5	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-19	STRG.5287.1|m.24190	sp|P10978|POLX_TOBAC	40.97	144	84	1	21	164	804	946	2e-30	122.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-20	STRG.5412.1|m.27238	sp|O04244|Y4200_ARATH	41.98	131	73	3	87	215	10	139	2e-25	108.0	Uncharacterized protein At4g02000 OS=Arabidopsis thaliana GN=At4g02000 PE=2 SV=1
-21	STRG.5412.1|m.27238	sp|O04244|Y4200_ARATH	41.35	133	75	3	1	131	8	139	3e-26	109.0	Uncharacterized protein At4g02000 OS=Arabidopsis thaliana GN=At4g02000 PE=2 SV=1
-22	STRG.5445.5	sp|O04244|Y4200_ARATH	29.01	162	110	1	77	233	7	168	7e-20	92.0	Uncharacterized protein At4g02000 OS=Arabidopsis thaliana GN=At4g02000 PE=2 SV=1
-23	STRG.5509.2|m.24448	sp|P10978|POLX_TOBAC	32.06	917	519	21	1	878	1	852	5e-135	442.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-24	STRG.5576.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	2e-77	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
-25	STRG.5576.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	2e-77	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
-26	STRG.5576.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	2e-77	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
-27	STRG.5576.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	2e-77	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
-28	STRG.5576.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	2e-77	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
-29	STRG.5576.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	2e-77	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
-30	STRG.5576.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	2e-77	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
-31	STRG.5576.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	2e-77	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
-32	STRG.5576.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	2e-77	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
-33	STRG.5613.1|m.19865	sp|Q0WP85|PP150_ARATH	100.0	509	0	0	1	509	1	509	0.0	1056.0	Pentatricopeptide repeat-containing protein At2g13420, mitochondrial OS=Arabidopsis thaliana GN=At2g13420 PE=2 SV=1
-34	STRG.5613.1|m.19865	sp|Q0WP85|PP150_ARATH	100.0	509	0	0	1	509	1	509	0.0	1056.0	Pentatricopeptide repeat-containing protein At2g13420, mitochondrial OS=Arabidopsis thaliana GN=At2g13420 PE=2 SV=1
-35	STRG.5643.1|m.21442	sp|P10978|POLX_TOBAC	23.13	428	273	17	73	479	39	431	1e-07	58.2	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-36	STRG.5643.1|m.21442	sp|P10978|POLX_TOBAC	23.13	428	273	17	73	479	39	431	1e-07	58.2	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-37	STRG.5987.1|m.19119	sp|P0C2F6|RNHX1_ARATH	21.82	275	193	8	1	262	89	354	5e-08	58.2	Putative ribonuclease H protein At1g65750 OS=Arabidopsis thaliana GN=At1g65750 PE=3 SV=1
-38	STRG.6330.1|m.21655	sp|P04146|COPIA_DROME	32.97	834	490	23	10	816	609	1400	5e-126	417.0	Copia protein OS=Drosophila melanogaster GN=GIP PE=1 SV=3
-39	STRG.6330.1|m.21655	sp|P04146|COPIA_DROME	33.05	814	491	18	10	791	609	1400	6e-127	419.0	Copia protein OS=Drosophila melanogaster GN=GIP PE=1 SV=3
-40	STRG.6330.1|m.21655	sp|P04146|COPIA_DROME	32.03	793	472	22	2	769	650	1400	9e-112	376.0	Copia protein OS=Drosophila melanogaster GN=GIP PE=1 SV=3
-41	STRG.6420.1|m.22975	sp|Q9C9H7|RLP12_ARATH	43.59	117	41	2	1	93	325	440	3e-17	82.0	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
-42	STRG.6420.1|m.22975	sp|Q9C9H7|RLP12_ARATH	38.55	83	40	2	3	80	468	544	4e-06	48.5	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
-43	STRG.6420.1|m.22975	sp|Q9C9H7|RLP12_ARATH	30.56	108	59	4	1	95	415	519	0.0003	42.7	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
-44	STRG.6420.1|m.22975	sp|Q9C9H7|RLP12_ARATH	44.26	61	31	1	30	87	684	744	0.0003	42.7	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
-45	STRG.6420.1|m.22975	sp|Q9C9H7|RLP12_ARATH	34.83	89	49	3	4	87	256	340	0.0008	41.2	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
-46	STRG.6420.1|m.22975	sp|Q9C9H7|RLP12_ARATH	35.23	88	48	3	4	86	208	291	0.001	41.2	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
-47	STRG.6420.1|m.22975	sp|Q9C9H7|RLP12_ARATH	35.96	89	48	3	4	87	136	220	0.002	40.4	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
-48	STRG.6420.1|m.22975	sp|Q9C9H7|RLP12_ARATH	37.08	89	47	3	4	87	160	244	0.002	40.0	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
-49	STRG.6420.1|m.22975	sp|Q9C9H7|RLP12_ARATH	38.64	88	47	3	20	101	123	209	0.003	40.0	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
-50	STRG.6421.1|m.21468	sp|Q9C9H7|RLP12_ARATH	54.62	119	52	2	16	133	10	127	3e-31	122.0	Receptor-like protein 12 OS=Arabidopsis thaliana GN=RLP12 PE=2 SV=2
-51	STRG.6375.1|m.24447	sp|P92519|M810_ARATH	40.27	221	127	2	1	219	6	223	4e-53	177.0	Uncharacterized mitochondrial protein AtMg00810 OS=Arabidopsis thaliana GN=AtMg00810 PE=4 SV=1
-52	STRG.6376.1|m.21949	sp|P10978|POLX_TOBAC	44.62	195	90	3	127	317	794	974	3e-42	162.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-53	STRG.7331.1|m.19874	sp|Q56WL5|ZPR4_ARATH	100.0	72	0	0	40	111	1	72	2e-41	137.0	Protein LITTLE ZIPPER 4 OS=Arabidopsis thaliana GN=ZPR4 PE=1 SV=1
-54	STRG.7474.1	sp|Q8W4K3|CAAT4_ARATH	88.61	79	9	0	64	142	522	600	2e-41	149.0	Cationic amino acid transporter 4, vacuolar OS=Arabidopsis thaliana GN=CAT4 PE=2 SV=1
-55	STRG.8367.1|m.38453	sp|F4J339|RPP1_ARATH	63.11	206	76	0	37	242	89	294	7e-87	284.0	Probable disease resistance protein RPP1 OS=Arabidopsis thaliana GN=RPP1 PE=2 SV=1
-56	STRG.8368.1|m.35035	sp|F4J339|RPP1_ARATH	50.12	409	163	6	1	378	598	996	1e-102	334.0	Probable disease resistance protein RPP1 OS=Arabidopsis thaliana GN=RPP1 PE=2 SV=1
-57	STRG.8421.2|m.33690	sp|P35881|TRA5_LACLA	23.48	230	137	9	370	576	153	366	0.007	43.1	Transposase for insertion sequence element IS905 OS=Lactococcus lactis subsp. lactis (strain IL1403) GN=tra905 PE=3 SV=1
-58	STRG.8421.2|m.33690	sp|P35881|TRA5_LACLA	23.48	230	137	9	370	576	153	366	0.006	43.1	Transposase for insertion sequence element IS905 OS=Lactococcus lactis subsp. lactis (strain IL1403) GN=tra905 PE=3 SV=1
-59	STRG.8510.2	sp|Q9SSQ4|FRS6_ARATH	22.19	338	197	15	397	682	297	620	0.0004	47.8	Protein FAR1-RELATED SEQUENCE 6 OS=Arabidopsis thaliana GN=FRS6 PE=2 SV=1
-60	STRG.8795.1|m.36629	sp|Q9LEX8|Y3093_ARATH	25.0	208	147	5	123	326	155	357	3e-12	74.3	Uncharacterized protein At3g60930, chloroplastic OS=Arabidopsis thaliana GN=At3g60930 PE=1 SV=1
-61	STRG.9117.1	sp|B9FJG3|RSLE1_ORYSJ	36.39	676	386	14	12	667	63	714	3e-136	423.0	Zinc finger BED domain-containing protein RICESLEEPER 1 OS=Oryza sativa subsp. japonica GN=Os05g0239150 PE=3 SV=1
-62	STRG.9299.1|m.40639	sp|Q6AVI0|RSLE2_ORYSJ	23.98	538	345	10	61	562	195	704	6e-42	164.0	Zinc finger BED domain-containing protein RICESLEEPER 2 OS=Oryza sativa subsp. japonica GN=Os03g0733400 PE=2 SV=1
-63	STRG.9746.1|m.33785	sp|Q9LK03|PERK2_ARATH	100.0	219	0	0	1	219	499	717	1e-161	471.0	Proline-rich receptor-like protein kinase PERK2 OS=Arabidopsis thaliana GN=PERK2 PE=2 SV=3
-64	STRG.9997.1|m.37284	sp|Q42456|ASPR1_ORYSJ	42.55	94	48	3	4	95	189	278	9e-15	73.6	Aspartic proteinase oryzasin-1 OS=Oryza sativa subsp. japonica GN=Os05g0567100 PE=2 SV=2
-65	STRG.10037.5	sp|Q39072|CCB15_ARATH	80.82	73	6	1	11	83	418	482	8e-32	119.0	Cyclin-B1-5 OS=Arabidopsis thaliana GN=CYCB1-5 PE=2 SV=3
-66	STRG.10186.1|m.41520	sp|Q7LHG5|YI31B_YEAST	41.96	112	64	1	3	113	1157	1268	1e-20	91.7	Transposon Ty3-I Gag-Pol polyprotein OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN=TY3B-I PE=3 SV=2
-67	STRG.10226.1|m.37689	sp|P92519|M810_ARATH	41.23	228	129	2	4	229	1	225	4e-54	182.0	Uncharacterized mitochondrial protein AtMg00810 OS=Arabidopsis thaliana GN=AtMg00810 PE=4 SV=1
-68	STRG.10226.1|m.37689	sp|P92519|M810_ARATH	40.31	196	112	2	106	299	33	225	1e-42	154.0	Uncharacterized mitochondrial protein AtMg00810 OS=Arabidopsis thaliana GN=AtMg00810 PE=4 SV=1
-69	STRG.10229.1|m.34018	sp|P10978|POLX_TOBAC	40.91	176	102	1	2	175	496	671	2e-37	142.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-70	STRG.10289.1|m.33647	sp|Q9SHV7|MD15C_ARATH	83.29	784	88	8	237	982	157	935	0.0	1186.0	Probable mediator of RNA polymerase II transcription subunit 15c OS=Arabidopsis thaliana GN=MED15C PE=2 SV=1
-71	STRG.10289.1|m.33647	sp|Q9SHV7|MD15C_ARATH	57.78	135	15	1	1	135	1	93	1e-35	149.0	Probable mediator of RNA polymerase II transcription subunit 15c OS=Arabidopsis thaliana GN=MED15C PE=2 SV=1
-72	STRG.10334.1|m.36645	sp|Q9LHK4|AB8B_ARATH	100.0	1241	0	0	1	1241	1	1241	0.0	2549.0	Putative ABC transporter B family member 8 OS=Arabidopsis thaliana GN=ABCB8 PE=5 SV=1
-73	STRG.10334.1|m.36645	sp|Q9LHK4|AB8B_ARATH	84.16	101	13	1	1	101	1	98	4e-46	164.0	Putative ABC transporter B family member 8 OS=Arabidopsis thaliana GN=ABCB8 PE=5 SV=1
-74	STRG.10341.2	sp|Q24492|RFA1_DROME	29.36	109	67	4	1	104	165	268	0.001	40.4	Replication protein A 70 kDa DNA-binding subunit OS=Drosophila melanogaster GN=RpA-70 PE=1 SV=1
-75	STRG.10475.1	sp|P04146|COPIA_DROME	33.78	74	48	1	1	74	1328	1400	0.0002	42.7	Copia protein OS=Drosophila melanogaster GN=GIP PE=1 SV=3
-76	STRG.11620.1|m.31066	sp|Q68DV7|RNF43_HUMAN	41.86	43	24	1	81	123	259	300	1e-05	46.6	E3 ubiquitin-protein ligase RNF43 OS=Homo sapiens GN=RNF43 PE=1 SV=1
-77	STRG.11685.2|m.41227	sp|Q9LEX8|Y3093_ARATH	100.0	798	0	0	1	798	1	798	0.0	1630.0	Uncharacterized protein At3g60930, chloroplastic OS=Arabidopsis thaliana GN=At3g60930 PE=1 SV=1
-78	STRG.11688.4	sp|O64637|C76C2_ARATH	44.59	148	81	1	41	188	163	309	1e-33	130.0	Cytochrome P450 76C2 OS=Arabidopsis thaliana GN=CYP76C2 PE=2 SV=1
-79	STRG.11702.1	sp|Q93ZA5|TBL46_ARATH	100.0	139	0	0	1	139	1	139	6e-101	292.0	Putative truncated protein trichome birefringence-like 46 OS=Arabidopsis thaliana GN=TBL46 PE=5 SV=1
-80	STRG.12038.1|m.48275	sp|Q84VX0|RFS1_ARATH	95.8	119	5	0	1	119	220	338	2e-64	213.0	Probable galactinol--sucrose galactosyltransferase 1 OS=Arabidopsis thaliana GN=RFS1 PE=2 SV=1
-81	STRG.11898.1	sp|P42730|CLPB1_ARATH	91.8	61	5	0	1	61	1	61	4e-30	115.0	Chaperone protein ClpB1 OS=Arabidopsis thaliana GN=CLPB1 PE=1 SV=2
-82	STRG.12361.1	sp|P0CT43|TF28_SCHPO	30.36	56	39	0	4	59	926	981	0.0002	41.6	Transposon Tf2-8 polyprotein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=Tf2-8 PE=3 SV=1
-83	STRG.12807.9	sp|Q9M2N5|DSLE_ARATH	31.32	546	327	17	102	631	161	674	1e-66	238.0	Zinc finger BED domain-containing protein DAYSLEEPER OS=Arabidopsis thaliana GN=HAT PE=1 SV=1
-84	STRG.13245.1|m.48427	sp|P0C043|PP318_ARATH	100.0	463	0	0	1	463	1	463	0.0	950.0	Putative pentatricopeptide repeat-containing protein At4g17915 OS=Arabidopsis thaliana GN=At4g17915 PE=3 SV=1
-85	STRG.13245.1|m.48427	sp|P0C043|PP318_ARATH	100.0	463	0	0	1	463	1	463	0.0	950.0	Putative pentatricopeptide repeat-containing protein At4g17915 OS=Arabidopsis thaliana GN=At4g17915 PE=3 SV=1
-86	STRG.13423.1|m.45340	sp|Q9LEX8|Y3093_ARATH	24.04	208	149	5	124	327	155	357	1e-10	68.9	Uncharacterized protein At3g60930, chloroplastic OS=Arabidopsis thaliana GN=At3g60930 PE=1 SV=1
-87	STRG.13490.1|m.44347	sp|P0DH86|SRK_ARATH	99.82	546	1	0	10	555	1	546	0.0	1136.0	G-type lectin S-receptor-like serine/threonine-protein kinase SRK OS=Arabidopsis thaliana GN=SRK PE=2 SV=1
-88	STRG.14733.1|m.43658	sp|Q9LM46|AG104_ARATH	26.19	168	95	5	1	147	32	191	2e-08	55.1	Agamous-like MADS-box protein AGL104 OS=Arabidopsis thaliana GN=AGL104 PE=1 SV=1
-89	STRG.14869.1|m.66523	sp|P04146|COPIA_DROME	30.77	104	66	2	1	104	1297	1394	3e-07	52.0	Copia protein OS=Drosophila melanogaster GN=GIP PE=1 SV=3
-90	STRG.17031.1|m.63372	sp|P10978|POLX_TOBAC	26.27	472	321	5	41	508	10	458	2e-42	174.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-91	STRG.17031.1|m.63372	sp|P10978|POLX_TOBAC	22.29	462	269	8	858	1232	782	1240	4e-12	74.7	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-92	STRG.17031.1|m.63372	sp|P10978|POLX_TOBAC	26.27	472	321	5	19	486	10	458	1e-42	174.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-93	STRG.17031.1|m.63372	sp|P10978|POLX_TOBAC	22.29	462	269	8	836	1210	782	1240	5e-12	74.7	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
-94	STRG.17141.1|m.66592	sp|P0C2F6|RNHX1_ARATH	31.37	102	66	3	2	100	98	198	0.0005	44.3	Putative ribonuclease H protein At1g65750 OS=Arabidopsis thaliana GN=At1g65750 PE=3 SV=1
-95	STRG.17397.1|m.58461	sp|P22738|RL32_ARATH	77.91	86	19	0	53	138	304	389	1e-42	150.0	60S ribosomal protein L3-2 OS=Arabidopsis thaliana GN=ARP2 PE=2 SV=4
-96	STRG.17397.1|m.58461	sp|P22738|RL32_ARATH	80.72	83	16	0	26	108	304	386	9e-43	149.0	60S ribosomal protein L3-2 OS=Arabidopsis thaliana GN=ARP2 PE=2 SV=4
-97	STRG.17569.1|m.65083	sp|Q8GTB6|THCAS_CANSA	43.0	207	102	3	1	199	342	540	7e-48	169.0	Tetrahydrocannabinolic acid synthase OS=Cannabis sativa PE=1 SV=1
-98	STRG.17569.1|m.65083	sp|A6P6V9|CBDAS_CANSA	52.03	123	54	1	1	123	422	539	3e-37	137.0	Cannabidiolic acid synthase OS=Cannabis sativa GN=CBDAS PE=1 SV=1
-99	STRG.18069.1|m.60264	sp|Q9FJ09|IMPA5_ARATH	61.9	105	40	0	5	109	275	379	5e-33	124.0	Importin subunit alpha-5 OS=Arabidopsis thaliana GN=IMPA5 PE=2 SV=1
-100	STRG.18069.1|m.60264	sp|Q9FJ09|IMPA5_ARATH	25.0	144	65	2	8	109	152	294	0.0009	40.8	Importin subunit alpha-5 OS=Arabidopsis thaliana GN=IMPA5 PE=2 SV=1
-101	STRG.18939.1	sp|Q9FIC3|BOLA2_ARATH	87.36	87	11	0	3	89	2	88	2e-50	160.0	Protein BOLA2 OS=Arabidopsis thaliana GN=BOLA2 PE=1 SV=1
-102	STRG.18940.1	sp|Q39219|AOX1A_ARATH	64.29	56	12	1	1	56	60	107	7e-14	67.8	Ubiquinol oxidase 1a, mitochondrial OS=Arabidopsis thaliana GN=AOX1A PE=1 SV=2
+0	STRG.9084.1	sp|Q6AVI0|RSLE2_ORYSJ	23.978	538	345	10	61	562	195	704	5.96e-42	164.0	Zinc finger BED domain-containing protein RICESLEEPER 2 OS=Oryza sativa subsp. japonica GN=Os03g0733400 PE=2 SV=1
+1	STRG.531.7	sp|Q9FDZ9|RL212_ARATH	74.074	81	20	1	16	95	84	164	2.85e-35	120.0	60S ribosomal protein L21-2 OS=Arabidopsis thaliana GN=RPL21E PE=2 SV=1
+2	STRG.8727.1	sp|Q9M5J9|PGIP1_ARATH	60.563	213	83	1	2	214	118	329	4.19e-81	248.0	Polygalacturonase inhibitor 1 OS=Arabidopsis thaliana GN=PGIP1 PE=2 SV=1
+3	STRG.1123.5	sp|Q9LMS5|GDL3_ARATH	69.333	150	0	1	1	104	107	256	3.08e-64	197.0	GDSL esterase/lipase At1g18120 OS=Arabidopsis thaliana GN=At1g18120 PE=3 SV=1
+4	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+5	STRG.9803.2	sp|Q39072|CCB15_ARATH	80.822	73	6	1	11	83	418	482	2.8e-32	119.0	Cyclin-B1-5 OS=Arabidopsis thaliana GN=CYCB1-5 PE=2 SV=3
+6	STRG.12538.3	sp|Q9M2N5|DSLE_ARATH	30.249	562	337	16	102	656	161	674	6.53e-69	241.0	Zinc finger BED domain-containing protein DAYSLEEPER OS=Arabidopsis thaliana GN=HAT PE=1 SV=1
+7	STRG.12538.3	sp|Q9M2N5|DSLE_ARATH	31.319	546	327	17	102	631	161	674	1.22e-67	238.0	Zinc finger BED domain-containing protein DAYSLEEPER OS=Arabidopsis thaliana GN=HAT PE=1 SV=1
+8	STRG.16635.1	sp|P10978|POLX_TOBAC	26.271	472	321	5	19	486	10	458	1.33e-42	174.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+9	STRG.16635.1	sp|P10978|POLX_TOBAC	22.294	462	269	8	836	1210	782	1240	4.66e-12	74.7	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+10	STRG.5855.4	sp|Q84J62|Y2920_ARATH	100.0	169	0	0	1	169	1	169	3.52e-125	351.0	UPF0725 protein At2g19200 OS=Arabidopsis thaliana GN=At2g19200 PE=2 SV=1
+11	STRG.10265.1	sp|P04146|COPIA_DROME	33.784	74	48	1	1	74	1328	1400	7.21e-05	42.7	Copia protein OS=Drosophila melanogaster GN=GIP PE=1 SV=3
+12	STRG.18434.1	sp|Q39219|AOX1A_ARATH	64.286	56	12	1	1	56	60	107	2.45e-14	67.8	Ubiquinol oxidase 1a, mitochondrial OS=Arabidopsis thaliana GN=AOX1A PE=1 SV=2
+13	STRG.3279.1	sp|P10978|POLX_TOBAC	42.972	498	272	6	1	488	830	1325	4.63e-135	425.0	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+14	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+15	STRG.9972.1	sp|Q9M2N5|DSLE_ARATH	37.069	116	67	3	18	132	564	674	2.24e-17	81.3	Zinc finger BED domain-containing protein DAYSLEEPER OS=Arabidopsis thaliana GN=HAT PE=1 SV=1
+16	STRG.849.1	sp|Q8B9D5|CATV_NPVR1	47.619	42	20	1	70	111	269	308	1.75e-06	48.5	Viral cathepsin OS=Rachiplusia ou multiple nucleopolyhedrovirus (strain R1) GN=VCATH PE=3 SV=1
+17	STRG.5994.1	sp|Q9C6T0|NIP31_ARATH	94.118	119	7	0	12	130	1	119	5.38e-73	224.0	Aquaporin NIP3-1 OS=Arabidopsis thaliana GN=NIP3-1 PE=2 SV=2
+18	STRG.8319.2	sp|Q9SSQ4|FRS6_ARATH	22.189	338	197	15	397	682	297	620	0.000372	47.8	Protein FAR1-RELATED SEQUENCE 6 OS=Arabidopsis thaliana GN=FRS6 PE=2 SV=1
+19	STRG.18074.3	sp|O00370|LORF2_HUMAN	23.714	797	549	22	1	766	142	910	3.66e-51	200.0	LINE-1 retrotransposable element ORF2 protein OS=Homo sapiens PE=1 SV=1
+20	STRG.10093.1	sp|Q9LHK4|AB8B_ARATH	100.0	1241	0	0	1	1241	1	1241	0.0	2549.0	Putative ABC transporter B family member 8 OS=Arabidopsis thaliana GN=ABCB8 PE=5 SV=1
+21	STRG.10096.2	sp|Q01588|RFA1_XENLA	28.07	114	72	4	4	112	177	285	0.001	40.8	Replication protein A 70 kDa DNA-binding subunit OS=Xenopus laevis GN=rpa1 PE=1 SV=1
+22	STRG.5252.1	sp|O04244|Y4200_ARATH	41.353	133	75	3	1	131	8	139	9.55e-27	109.0	Uncharacterized protein At4g02000 OS=Arabidopsis thaliana GN=At4g02000 PE=2 SV=1
+23	STRG.5263.4	sp|O04244|Y4200_ARATH	29.012	162	110	1	77	233	7	168	8.34e-20	92.0	Uncharacterized protein At4g02000 OS=Arabidopsis thaliana GN=At4g02000 PE=2 SV=1
+24	STRG.13135.1	sp|Q9LEX8|Y3093_ARATH	24.038	208	149	5	124	327	155	357	1.02e-10	68.9	Uncharacterized protein At3g60930, chloroplastic OS=Arabidopsis thaliana GN=At3g60930 PE=1 SV=1
+25	STRG.1990.1	sp|Q9FDZ9|RL212_ARATH	74.074	81	20	1	16	95	84	164	1.78e-35	121.0	60S ribosomal protein L21-2 OS=Arabidopsis thaliana GN=RPL21E PE=2 SV=1
+26	STRG.11427.2	sp|Q9LEX8|Y3093_ARATH	100.0	798	0	0	1	798	1	798	0.0	1630.0	Uncharacterized protein At3g60930, chloroplastic OS=Arabidopsis thaliana GN=At3g60930 PE=1 SV=1
+27	STRG.11432.4	sp|O64637|C76C2_ARATH	44.595	148	81	1	41	188	163	309	4.07e-34	130.0	Cytochrome P450 76C2 OS=Arabidopsis thaliana GN=CYP76C2 PE=2 SV=1
+28	STRG.11442.1	sp|Q93ZA5|TBL46_ARATH	100.0	139	0	0	1	139	1	139	1.22e-102	292.0	Putative truncated protein trichome birefringence-like 46 OS=Arabidopsis thaliana GN=TBL46 PE=5 SV=1
+29	STRG.12114.1	sp|P0CT43|TF28_SCHPO	30.357	56	39	0	4	59	926	981	6.36e-05	41.6	Transposon Tf2-8 polyprotein OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) GN=Tf2-8 PE=3 SV=1
+30	STRG.8917.1	sp|B9FJG3|RSLE1_ORYSJ	36.391	676	386	14	12	667	63	714	7.47e-138	423.0	Zinc finger BED domain-containing protein RICESLEEPER 1 OS=Oryza sativa subsp. japonica GN=Os05g0239150 PE=3 SV=1
+31	STRG.7345.1	sp|Q8W4K3|CAAT4_ARATH	88.608	79	9	0	64	142	522	600	7.36e-42	149.0	Cationic amino acid transporter 4, vacuolar OS=Arabidopsis thaliana GN=CAT4 PE=2 SV=1
+32	STRG.6165.1	sp|P04146|COPIA_DROME	32.03	793	472	22	2	769	650	1400	8.27e-113	376.0	Copia protein OS=Drosophila melanogaster GN=GIP PE=1 SV=3
+33	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+34	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+35	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+36	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+37	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+38	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+39	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+40	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+41	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+42	STRG.5405.1	sp|Q8I7P9|POL5_DROME	40.0	405	212	7	540	919	54	452	4.49e-78	277.0	Retrovirus-related Pol polyprotein from transposon opus OS=Drosophila melanogaster GN=pol PE=3 SV=1
+43	STRG.5456.1	sp|Q0WP85|PP150_ARATH	100.0	509	0	0	1	509	1	509	0.0	1056.0	Pentatricopeptide repeat-containing protein At2g13420, mitochondrial OS=Arabidopsis thaliana GN=At2g13420 PE=2 SV=1
+44	STRG.5456.1	sp|Q0WP85|PP150_ARATH	100.0	509	0	0	1	509	1	509	0.0	1056.0	Pentatricopeptide repeat-containing protein At2g13420, mitochondrial OS=Arabidopsis thaliana GN=At2g13420 PE=2 SV=1
+45	STRG.12956.1	sp|P0C043|PP318_ARATH	100.0	463	0	0	1	463	1	463	0.0	950.0	Putative pentatricopeptide repeat-containing protein At4g17915 OS=Arabidopsis thaliana GN=At4g17915 PE=3 SV=1
+46	STRG.16969.1	sp|P22738|RL32_ARATH	80.723	83	16	0	26	108	304	386	7.64e-44	149.0	60S ribosomal protein L3-2 OS=Arabidopsis thaliana GN=ARP2 PE=2 SV=4
+47	STRG.5487.1	sp|P10978|POLX_TOBAC	23.131	428	273	17	73	479	39	431	1.47e-07	58.2	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
+48	STRG.4175.2	sp|Q6AVI0|RSLE2_ORYSJ	34.493	661	394	12	26	670	66	703	1.12e-122	384.0	Zinc finger BED domain-containing protein RICESLEEPER 2 OS=Oryza sativa subsp. japonica GN=Os03g0733400 PE=2 SV=1
+49	STRG.18433.1	sp|Q9FIC3|BOLA2_ARATH	87.356	87	11	0	3	89	2	88	9.32e-52	160.0	Protein BOLA2 OS=Arabidopsis thaliana GN=BOLA2 PE=1 SV=1
+50	STRG.6165.1	sp|P04146|COPIA_DROME	32.083	773	473	17	2	744	650	1400	9.03e-114	378.0	Copia protein OS=Drosophila melanogaster GN=GIP PE=1 SV=3
+51	STRG.12342.1	sp|P10978|POLX_TOBAC	22.256	328	202	11	75	381	52	347	1.09e-05	51.2	Retrovirus-related Pol polyprotein from transposon TNT 1-94 OS=Nicotiana tabacum PE=2 SV=1
